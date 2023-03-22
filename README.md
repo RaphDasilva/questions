@@ -81,7 +81,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://FAQ Toggle-rruh.onrender.com/)
+- [Live Demo Link](https://faq-xavz.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
